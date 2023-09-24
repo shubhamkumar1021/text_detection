@@ -1,4 +1,4 @@
-# text_detection
+# Plagiarism Checker
 
 Detecting plagiarism in text involves comparing one text (the "source" or "suspected" text) with one or more other texts (the "reference" or "original" texts) to determine if there are similarities that may indicate plagiarism. There are various methods and techniques for detecting plagiarism, including:
 
